@@ -3,6 +3,7 @@ import { Card, CardContent } from "@/components/ui/card";
 import { ArrowRight, CheckCircle2, Shield, TrendingUp, Search, Home as HomeIcon } from "lucide-react";
 import { Link } from "wouter";
 import heroImage from "@assets/generated_images/isometric_3d_digital_tender_illustration.png";
+
 import { motion } from "framer-motion";
 
 export default function HomePage() {
